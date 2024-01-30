@@ -4,15 +4,15 @@ I am quite old and very forgetful.  It's handy to capture things I've learned or
 
 ## Sage II Computer Project
 
+### Power Supply swap out
+
 ### The PROM
 
 #### Which Assembler?
 
-### Power Supply swap out
-
 ### IDE Disk Drive
 
-## I/O Module to running with Robot Framework
+## I/O Module running with Robot Framework
 
 ## Basketball Stats
 

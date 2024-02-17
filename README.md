@@ -3,7 +3,7 @@ A place to keep my project notes.
 I am quite old and very forgetful.  It's handy to capture things I've learned or done somewhere I can find later on...  This is it.
 
 ## Sage II Computer Project
-Find out about this project [here](https://LittleFrog1959.github.io/sageComputer.md)
+Find out about this project [here](https://sageComputer.md)
 
 ## I/O Module running with Robot Framework
 
